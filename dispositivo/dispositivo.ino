@@ -9,8 +9,8 @@
 #include <Adafruit_SSD1306.h>
 
 // WiFi
-const char* SSID = "Jeffin"; // rede wifi
-const char* PASSWORD = "31643493"; // senha da rede wifi
+const char* SSID = "rede"; // rede wifi
+const char* PASSWORD = "senha"; // senha da rede wifi
 const char* HOSTNAME = "relogio_rua_abc";
 
 // NTP
